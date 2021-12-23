@@ -1,0 +1,40 @@
+.header {
+    width: 1200px;
+    height: 76px;
+    background: #CCCCCC;
+    display: flex;
+    align-items: center;
+    margin: 0 auto 32px auto;
+    .header__title {
+        color: #FFF;
+        text-decoration: none;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 44px;
+    }
+    nav {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        ul {
+            display: flex;
+            align-items: center;
+            li {
+                display: flex;
+                align-items: center;
+                color: #FFF;
+                &:not(:last-child) {
+                    margin-right: 32px;
+                }
+            }
+        }
+        a {
+            font-size: 16px;
+            line-height: 20px;
+            color: #FFF;
+            text-decoration: none;
+        }
+    }
+}
