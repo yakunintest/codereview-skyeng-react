@@ -1,0 +1,8 @@
+.p {
+    &__grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(379px, 379px));
+        grid-gap: 31px;
+        row-gap: 49px;
+    }
+}
