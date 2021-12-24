@@ -48,3 +48,14 @@ export const dummyProducts = [
     photo: "/img/nastan.png"
   },
 ];
+
+export const OPTIONS_LIST = [
+  {
+    value: 'ASC',
+    label: 'Порядок: сперва дешевле'
+  },
+  {
+    value: 'DESC',
+    label: 'Порядок: сперва дороже'
+  }
+]

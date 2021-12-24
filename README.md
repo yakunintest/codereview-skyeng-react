@@ -1,3 +1,5 @@
+*https://yakunintest.github.io/codereview-skyeng-react/*
+
 Тестовое задание
 
 Макет который вам необходимо создать https://www.figma.com/file/NBdyWNYPzd2cOvWsiNyjSD/Untitled?node-id=0%3A1

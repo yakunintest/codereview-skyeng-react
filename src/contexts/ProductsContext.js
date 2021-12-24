@@ -1,15 +1,26 @@
-import React, {createContext, useState} from 'react';
-import {dummyProducts} from '../services/dummy';
+import React, { createContext, useReducer } from 'react';
+import { dummyProducts } from '../services/dummy';
+import { ProductsReducer } from "./ProductsReducer";
 
 export const ProductsContext = createContext()
 
+const initialState = {products: dummyProducts};
+
 const ProductsContextProvider = ({children}) => {
 
-  const [products] = useState(dummyProducts);
+  const [products, dispatch] = useReducer(ProductsReducer, initialState)
 
-  console.log(products);
+  const sort = payload => {
+    dispatch({type: 'SORT', payload})
+  }
+
+  const contextValues = {
+    sort,
+    ...products
+  }
+
   return (
-    <ProductsContext.Provider value={{products}}>
+    <ProductsContext.Provider value={contextValues}>
       {children}
     </ProductsContext.Provider>
   );

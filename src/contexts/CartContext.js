@@ -43,13 +43,13 @@ const CartContextProvider = ({children}) => {
         clearCart,
         handleCheckout,
         ...state
-    } 
+    }
 
-    return ( 
+    return (
         <CartContext.Provider value={contextValues} >
             { children }
         </CartContext.Provider>
      );
 }
- 
+
 export default CartContextProvider;
