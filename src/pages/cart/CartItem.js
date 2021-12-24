@@ -21,7 +21,7 @@ const CartItem = ({product}) => {
         <p className={styles.itemBlock__price}>{money(product.price, product.currency)} </p>
         <div className={styles.itemBlock__actions}>
           <Link to='/'>Избранные</Link>
-          <Link onClick={() => removeProduct(product)}>Удалить</Link>
+          <Link to="/#" onClick={() => removeProduct(product)}>Удалить</Link>
         </div>
       </div>
       <div className={styles.itemBlock__counter}>
