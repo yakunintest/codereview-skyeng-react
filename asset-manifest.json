@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/codereview-skyeng-react/static/css/main.188f3075.chunk.css",
-    "main.js": "/codereview-skyeng-react/static/js/main.ce873622.chunk.js",
-    "main.js.map": "/codereview-skyeng-react/static/js/main.ce873622.chunk.js.map",
+    "main.js": "/codereview-skyeng-react/static/js/main.5dcccc0a.chunk.js",
+    "main.js.map": "/codereview-skyeng-react/static/js/main.5dcccc0a.chunk.js.map",
     "runtime-main.js": "/codereview-skyeng-react/static/js/runtime-main.bda52a48.js",
     "runtime-main.js.map": "/codereview-skyeng-react/static/js/runtime-main.bda52a48.js.map",
     "static/js/2.13b1dd70.chunk.js": "/codereview-skyeng-react/static/js/2.13b1dd70.chunk.js",
     "static/js/2.13b1dd70.chunk.js.map": "/codereview-skyeng-react/static/js/2.13b1dd70.chunk.js.map",
     "index.html": "/codereview-skyeng-react/index.html",
-    "precache-manifest.5d7c0068ab1fb6925e6f00fb8b3f2e6c.js": "/codereview-skyeng-react/precache-manifest.5d7c0068ab1fb6925e6f00fb8b3f2e6c.js",
+    "precache-manifest.769bc2a9c6467becbe318eb0d959096d.js": "/codereview-skyeng-react/precache-manifest.769bc2a9c6467becbe318eb0d959096d.js",
     "service-worker.js": "/codereview-skyeng-react/service-worker.js",
     "static/css/main.188f3075.chunk.css.map": "/codereview-skyeng-react/static/css/main.188f3075.chunk.css.map",
     "static/js/2.13b1dd70.chunk.js.LICENSE.txt": "/codereview-skyeng-react/static/js/2.13b1dd70.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bda52a48.js",
     "static/js/2.13b1dd70.chunk.js",
     "static/css/main.188f3075.chunk.css",
-    "static/js/main.ce873622.chunk.js"
+    "static/js/main.5dcccc0a.chunk.js"
   ]
 }
