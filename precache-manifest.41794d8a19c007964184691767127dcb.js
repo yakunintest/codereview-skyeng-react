@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8def874ef426193609cebd2e4b8753f6",
+    "revision": "20d6ca548e4d436d4af50db09602dda6",
     "url": "/codereview-skyeng-react/index.html"
   },
   {
-    "revision": "882d13ff7143e37fb763",
-    "url": "/codereview-skyeng-react/static/css/main.9cea614d.chunk.css"
+    "revision": "cfa2fc272953f5027496",
+    "url": "/codereview-skyeng-react/static/css/main.e87520e4.chunk.css"
   },
   {
     "revision": "247e092dd871737f32f6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codereview-skyeng-react/static/js/2.47c965e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "882d13ff7143e37fb763",
+    "revision": "cfa2fc272953f5027496",
     "url": "/codereview-skyeng-react/static/js/main.7dfb053d.chunk.js"
   },
   {

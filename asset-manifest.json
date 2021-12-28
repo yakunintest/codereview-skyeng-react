@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/codereview-skyeng-react/static/css/main.9cea614d.chunk.css",
+    "main.css": "/codereview-skyeng-react/static/css/main.e87520e4.chunk.css",
     "main.js": "/codereview-skyeng-react/static/js/main.7dfb053d.chunk.js",
     "main.js.map": "/codereview-skyeng-react/static/js/main.7dfb053d.chunk.js.map",
     "runtime-main.js": "/codereview-skyeng-react/static/js/runtime-main.bda52a48.js",
@@ -8,15 +8,15 @@
     "static/js/2.47c965e5.chunk.js": "/codereview-skyeng-react/static/js/2.47c965e5.chunk.js",
     "static/js/2.47c965e5.chunk.js.map": "/codereview-skyeng-react/static/js/2.47c965e5.chunk.js.map",
     "index.html": "/codereview-skyeng-react/index.html",
-    "precache-manifest.4887b0c12f83c94fc231b9f4c395ddb6.js": "/codereview-skyeng-react/precache-manifest.4887b0c12f83c94fc231b9f4c395ddb6.js",
+    "precache-manifest.41794d8a19c007964184691767127dcb.js": "/codereview-skyeng-react/precache-manifest.41794d8a19c007964184691767127dcb.js",
     "service-worker.js": "/codereview-skyeng-react/service-worker.js",
-    "static/css/main.9cea614d.chunk.css.map": "/codereview-skyeng-react/static/css/main.9cea614d.chunk.css.map",
+    "static/css/main.e87520e4.chunk.css.map": "/codereview-skyeng-react/static/css/main.e87520e4.chunk.css.map",
     "static/js/2.47c965e5.chunk.js.LICENSE.txt": "/codereview-skyeng-react/static/js/2.47c965e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bda52a48.js",
     "static/js/2.47c965e5.chunk.js",
-    "static/css/main.9cea614d.chunk.css",
+    "static/css/main.e87520e4.chunk.css",
     "static/js/main.7dfb053d.chunk.js"
   ]
 }
