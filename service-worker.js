@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yakunintest/codereview-skyeng-react/precache-manifest.f2dd00c0f8400d4ade56122e0afeafa0.js"
+  "/yakunintest/codereview-skyeng-react/precache-manifest.ee577ea1a86bccf17f3978f955f0e876.js"
 );
 
 self.addEventListener('message', (event) => {
